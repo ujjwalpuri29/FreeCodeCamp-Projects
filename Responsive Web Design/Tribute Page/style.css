@@ -34,7 +34,7 @@ h3 {
   margin-top: 5px;
 }
 
-.footer {
+footer {
   padding-bottom: 2em;
 }
 
@@ -56,6 +56,24 @@ p {
 li {
   padding: 0.5em;
   color: rgb(61, 61, 61);
+}
+
+.quote {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.icon-container {
+  display: flex;
+  justify-content: center;
+}
+
+.icon {
+  width: 30px;
+  flex-direction: row;
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer; 
 }
 
 @media (max-width: 800px) {
