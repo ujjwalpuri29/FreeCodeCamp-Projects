@@ -1,0 +1,113 @@
+* {
+    font-family: Lato, Poppins, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    box-sizing: border-box;
+}
+
+.center {
+    text-align: center;
+}
+
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(30, 6, 68);
+    background-image: linear-gradient(0deg, #000000ad, #000000ad),url("Background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
+
+p {
+    margin: 0px 0px 30px 0px;
+}
+
+h1, p {
+    color: white;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 0, 0.589);
+    border-radius: 5px;
+    padding: 40px;
+    width: 700px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.form-label {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0px 10px 0px;
+    min-height: 0;
+}
+
+input, select, textarea {
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 10px 5px 10px 10px;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button {
+    padding: 10px;
+    margin: 20px 0px;
+    font-weight: bold;
+    background-color: rgb(26, 143, 71);
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.choice {
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+}
+
+.choice input {
+    width: 30px;
+}
+
+footer {
+    padding-bottom: 2em;
+}
+
+footer p {
+    margin-bottom: 10px;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+}
+  
+.icon {
+    width: 30px;
+    flex-direction: row;
+    padding-left: 5px;
+    padding-right: 5px;
+    cursor: pointer; 
+}
