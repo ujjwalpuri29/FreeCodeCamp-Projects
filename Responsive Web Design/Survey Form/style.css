@@ -111,3 +111,9 @@ footer p {
     padding-right: 5px;
     cursor: pointer; 
 }
+
+@media (max-width:800px) {
+    form {
+      width: 90vw;
+    }
+}
