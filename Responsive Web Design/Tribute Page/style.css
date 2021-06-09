@@ -3,6 +3,20 @@
 	box-sizing: border-box;
 }
 
+#back {
+  display: inline-block;
+}
+
+#back a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: left;
+  text-decoration: none;
+  color: inherit;
+  margin-left: 10px;
+}
+
 #img-div {
   display: flex;
   background: #fdfdfd;
