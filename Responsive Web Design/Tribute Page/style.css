@@ -3,6 +3,20 @@
 	box-sizing: border-box;
 }
 
+#back {
+  display: inline-block;
+}
+
+#back a {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: left;
+  text-decoration: none;
+  color: inherit;
+  margin-left: 10px;
+}
+
 #img-div {
   display: flex;
   background: #fdfdfd;
@@ -24,7 +38,7 @@ h1 {
   text-align: center;
   font-size: 64px;
   margin: 0px;
-  padding-top: 50px;
+  padding-top: 20px;
 }
 
 h3 {
