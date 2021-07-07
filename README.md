@@ -29,3 +29,4 @@ Projects that I have completed while going through the FreeCodeCamp Curriculum.
 
 - [Palindrome Checker](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Palindrome%20Checker.js)
 - [Caesar Cipher](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Caesar%20Cipher.js)
+- [Roman Numeral Converter](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Roman%20Numeral%20Converter.js)
