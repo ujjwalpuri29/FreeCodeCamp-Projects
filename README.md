@@ -7,3 +7,4 @@ Projects that I have completed while going through the FreeCodeCamp Curriculum.
 
 ### \< JavaScript Algorithms and Data Structures >
 - [Palindrome Checker](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Palindrome%20Checker.js)
+- [Caesar Cipher](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Caesar%20Cipher.js)
