@@ -10,7 +10,7 @@ Projects that I have completed while going through the FreeCodeCamp Curriculum.
     <summary>Basic Algorithm Scripting Challenges</summary>
 
     - [Convert Celsius to Fahrenheit](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Convert%20Celsius%20to%20Fahrenheit.js)
-    - Reverse a string
+    - [Reverse a string](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Reverse%20a%20String.js)
     - Factorialize a Number
     - Find the Longest Word in a String
     - Return Largest Numbers in Arrays
