@@ -13,7 +13,7 @@ Projects that I have completed while going through the FreeCodeCamp Curriculum.
     - [Reverse a string](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/tree/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Reverse%20a%20String.js)
     - [Factorialize a Number](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Factorialize%20a%20Number.js)
     - [Find the Longest Word in a String](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Find%20the%20Longest%20Word%20in%20a%20String)
-    - Return Largest Numbers in Arrays
+    - [Return Largest Numbers in Arrays](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Largest%20Numbers%20in%20Arrays)
     - Confirm the Ending
     - Repeat a String Repeat a String
     - Truncate a String
