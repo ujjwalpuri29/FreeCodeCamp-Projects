@@ -15,7 +15,7 @@ Projects that I have completed while going through the FreeCodeCamp Curriculum.
     - [Find the Longest Word in a String](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Find%20the%20Longest%20Word%20in%20a%20String)
     - [Return Largest Numbers in Arrays](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Largest%20Numbers%20in%20Arrays)
     - Confirm the Ending
-    - Repeat a String Repeat a String
+    - [Repeat a String Repeat a String](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Repeat%20a%20String%20Repeat%20a%20String.js)
     - Truncate a String
     - Finders Keepers
     - Boo who
