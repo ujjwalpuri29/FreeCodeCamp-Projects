@@ -19,7 +19,7 @@ Projects that I have completed while going through the FreeCodeCamp Curriculum.
     - [Truncate a String](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Truncate%20a%20String.js)
     - [Finders Keepers](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Finders%20Keepers.js)
     - [Boo who](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Boo%20who.js)
-    - Title Case a Sentence
+    - [Title Case a Sentence](https://github.com/ujjwalpuri29/FreeCodeCamp-Projects/blob/main/JavaScript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting%20Challenges/Title%20Case%20a%20Sentence.js)
     - Slice and Splice
     - Falsy Bouncer
     - Where do I Belong
